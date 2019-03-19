@@ -19,3 +19,9 @@ function prueba (cuenta){
 		console.log(i)
 	}
 }
+
+function hello10times(){
+  for(let i = 0 ; i < 10 ; i++){
+    console.log("hello")
+  }
+}
