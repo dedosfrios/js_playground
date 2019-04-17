@@ -22,7 +22,7 @@ let Cars = function (name,speedlimit,engine,sound){
 	this.name = name;
 	this.speedlimit = speedlimit;
 	this.engine = engine;
-	this.skrt = function(sound){
+	this.skrt = function(sound){Fu
 		console.log(sound);
 	}
 }
